@@ -1,4 +1,7 @@
 # lita-hackersays
+[![Gem Version](https://badge.fury.io/rb/lita-hackersays.png)](http://badge.fury.io/rb/lita-hackersays)
+[![Build Status](https://api.travis-ci.org/jarmo/lita-hackersays.png)](http://travis-ci.org/jarmo/lita-hackersays)
+[![Coverage](https://coveralls.io/repos/jarmo/lita-hackersays/badge.png?branch=master)](https://coveralls.io/r/jarmo/lita-hackersays)
 
 TODO: Add a description of the plugin.
 
