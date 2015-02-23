@@ -20,7 +20,7 @@ module Lita
       end
 
       def as_text(quote)
-        "“ #{quote["c"]} — #{quote["a"]}"
+        "#{quote["c"]} — #{quote["a"]}"
       end
     end
 

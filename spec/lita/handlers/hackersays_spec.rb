@@ -12,7 +12,7 @@ describe Lita::Handlers::Hackersays, lita_handler: true do
         "a" => "Alan J. Perlis"
       )
       send_command "hackersays"
-      expect(replies.last).to eq("“ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. — Alan J. Perlis")
+      expect(replies.last).to eq("Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. — Alan J. Perlis")
     end
 
     it "handles errors" do

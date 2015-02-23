@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-hackersays"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["Jarmo Pertman"]
   spec.email         = ["jarmo.p@gmail.com"]
   spec.description   = %q{Handler for Lita Chat bot that provides quotes from hackers backed by hackersays.com.}
