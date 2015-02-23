@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-hackersays"
-  spec.version       = "0.0.1"
+  spec.version       = "1.0.0"
   spec.authors       = ["Jarmo Pertman"]
   spec.email         = ["jarmo.p@gmail.com"]
-  spec.description   = %q{TODO: Add a description}
-  spec.summary       = %q{TODO: Add a summary}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = %q{Handler for Lita Chat bot that provides quotes from hackers backed by hackersays.com.}
+  spec.summary       = %q{Handler for Lita Chat bot that provides quotes from hackers backed by hackersays.com.}
+  spec.homepage      = "https://github.com/jarmo/lita-hackersays"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
